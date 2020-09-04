@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on TesMusk
 - 🌱 I’m currently learning Flutter, Python 
 - 👯 I’m looking to collaborate on interesting and real projects that have a positive impact on society.
-- 🤔 I’m looking for help with anything in programming and Ethical Hacking - cybersecurity I learn every day.
+- 🤔 I’m looking for help with anything in programming and Ethical Hacking - cybersecurity. I learn every day.
 - 💬 Ask me about cybersecurity, Ethical Hacking and mobile development.
 <!--_- 📫 How to reach me: --> 
 - 😄 Pronouns: Zero, Santiago
