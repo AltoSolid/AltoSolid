@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on TesMusk
 - 🌱 I’m currently learning Flutter, Python 
-- 👯 I’m looking to collaborate on interesting, real and projects that have apositive impact on society
+- 👯 I’m looking to collaborate on interesting and real projects that have apositive impact on society
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about cybersecurity, Ethical Hacking and mobile 
 - 📫 How to reach me: 
